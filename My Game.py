@@ -1,7 +1,6 @@
 # My game
 import turtle
 import random
-import pygame
 
 wn = turtle.Screen()
 wn.title("MY game")
